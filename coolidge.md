@@ -1,6 +1,6 @@
 # Calvin Coolidge Autobiography
 
-## Coolidge, Calvin, et al. The Autobiography of Calvin Coolidge. ISI Books, 2021. 
+### Coolidge, Calvin, et al. The Autobiography of Calvin Coolidge. ISI Books, 2021. 
 
 NOTE: I only decided to start taking notes in the middle of this book, so some
 good stuff is missing from the beginning. I'll likely reread this one later, so
